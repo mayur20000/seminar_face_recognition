@@ -1,0 +1,2 @@
+# seminar_face_recognition
+seminar_entry_verification
